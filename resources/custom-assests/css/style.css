@@ -1,0 +1,102 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.err-msg
+{color:red;}
+
+
+.user-img-div{
+	min-height:auto!important;
+}
+.user-img-div img
+{
+	height:65px !important;	
+	border:none!important;
+}
+.img-circle
+{
+	border-radius:0px!important;	
+}
+.cursor-pointer
+{
+	cursor:pointer;
+}
+.required
+{
+	color:#F00; margin-left:3px; 	
+}
+
+.err-border
+{
+	border:1px solid #f00;	
+}
+
+
+.addmore
+{
+    margin-top: 34px;
+    background: #2196F3;
+    width: auto;
+    color: #fff;
+    cursor: pointer;
+    padding: 5px;
+}
+.deletepenalities, .deleterepairs, .deleteexpense, .delete_editpenality, .delete_editrepair, .delete_editexpense
+{
+	margin-top: 34px;
+    background: #ff000c;
+    width: auto;
+    color: #fff;
+    cursor: pointer;
+    padding: 5px;
+	border-radius:33%;
+}
+
+.morepenalities
+{
+	margin-top:10px;	
+}
+.value
+{
+	width: 50%;
+    float: right;
+	font-weight:600;	
+}
+
+.expensives_heading
+{
+argin-top: 10px;
+    width: 100%;
+    border-bottom: 1px solid #eee;	
+}
+
+.marg-btm
+{
+	margin-bottom:10px;
+}
+
+.filterzone
+{margin-bottom:5px;}
+
+.paymentsection
+{display:none;}
+
+.h3title
+{
+	font-size:25px !important;	
+	    margin-top: 3px;
+    border-top: 2px solid #d2d2d2;
+    padding-top: 20px;
+}
+
+.chequedetails
+{
+	display:none;
+}
+
+.cashCheque
+{
+	margin-top:5px; 		
+}
